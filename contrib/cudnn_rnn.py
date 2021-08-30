@@ -14,7 +14,7 @@
 
 # Lint as: python3
 """Forked classes and functions from `tf.contrib.cudnn_rnn`."""
-from magenta.contrib import rnn as contrib_rnn
+from contrib import rnn as contrib_rnn
 
 
 class CudnnCompatibleLSTMCell(contrib_rnn.LSTMBlockCell):

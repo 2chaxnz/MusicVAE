@@ -18,7 +18,7 @@
 import abc
 import collections
 
-from magenta.contrib import rnn as contrib_rnn
+from contrib import rnn as contrib_rnn
 import tensorflow.compat.v1 as tf
 
 from tensorflow.python.framework import tensor_util  # pylint:disable=g-direct-tensorflow-import

@@ -16,7 +16,7 @@
 import itertools
 
 from absl.testing import parameterized
-from magenta.contrib import rnn as contrib_rnn
+from contrib import rnn as contrib_rnn
 import numpy as np
 import tensorflow.compat.v1 as tf
 

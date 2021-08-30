@@ -14,7 +14,7 @@
 
 """Tensorflow-related utilities."""
 
-from magenta.contrib import training as contrib_training
+from contrib import training as contrib_training
 import tensorflow.compat.v1 as tf
 
 

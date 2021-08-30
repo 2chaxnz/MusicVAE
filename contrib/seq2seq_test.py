@@ -15,7 +15,7 @@
 # Lint as: python3
 """Tests for magenta.contrib.seq2seq."""
 
-from magenta.contrib import seq2seq
+from contrib import seq2seq
 import numpy as np
 import tensorflow.compat.v1 as tf
 

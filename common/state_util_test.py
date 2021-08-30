@@ -14,7 +14,7 @@
 
 """Tests for state_util."""
 
-from magenta.common import state_util
+from common import state_util
 import numpy as np
 import tensorflow.compat.v1 as tf
 

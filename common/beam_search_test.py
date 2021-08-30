@@ -14,7 +14,7 @@
 
 """Tests for beam search."""
 
-from magenta.common import beam_search
+from common import beam_search
 import tensorflow.compat.v1 as tf
 
 tf.disable_v2_behavior()
