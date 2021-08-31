@@ -17,7 +17,7 @@
 import threading
 import time
 
-from magenta.common import concurrency
+from common import concurrency
 import tensorflow.compat.v1 as tf
 
 
